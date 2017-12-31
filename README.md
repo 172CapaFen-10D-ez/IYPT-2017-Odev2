@@ -22,8 +22,8 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+# Özet 
+Yassı bir mum  bir miktar su  dolu bir kaba konur tabi koyduğumuz mum su üzerinde yüzer.
 # Giriş (Introduction)
 Bu bölüm; 
 literatür
