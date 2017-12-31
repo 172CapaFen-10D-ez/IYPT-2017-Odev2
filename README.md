@@ -22,9 +22,9 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
-# Giriş (Introduction)
+# Özet  
+İçi su dolu kaba yassı mum bırakılır. Ağırlıksız haldeki mum su üstünde yüzer. Sırayla ve teker teker ağırlıklar mumun üzerine yerleştirilir. Bu esnada yüzmekte olan mum aldığı ağırlıklar sebebiyle yavaş yavaş batmaya başlar. Bir kibrit yardımıyla yakılan mum su üzerinde yükselir ve yeniden yüzmeye başlar. Bunun nedeni nedir araştıracağız.
+# Giriş (Introduction
 Bu bölüm; 
 literatür
 taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
@@ -47,16 +47,12 @@ benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Be
 çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
 # Materyal ve Yöntem (Experimental Setup)
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
+Bu konu yeni bir Iypt projesi olduğu için pek bir kaynağımız yok bu yüzden daha çok kendi fikrimiz ve uğraşlarımız sonucu bu projeyi gerçekleşmeye çalışacağız.
+Çalışma ortamımız şu anlık normal koşullar
+Deneyimizde ilerleme kaydettikçe bağımsız değişkenlerle,farklı ortamlarda çeşitli sonuçlar almayı düşünüyoruz.
+İnternette bulduğumuz nadir birkaç kaynak var deneyimize ışık tutacak.
+* Veri toplama araçlarınızın neler olduğu, onları  siz gel
+* Gözlemlerinizi, saha çalışmalarınızı v
 nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
 bunun için hangi araç ya da yazılımları kullandığınız,
 * Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
