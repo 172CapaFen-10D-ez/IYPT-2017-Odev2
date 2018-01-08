@@ -25,12 +25,8 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 # Özet  
 İçi su dolu kaba yassı mum bırakılır. Ağırlıksız haldeki mum su üstünde yüzer. Sırayla ve teker teker ağırlıklar mumun üzerine yerleştirilir. Bu esnada yüzmekte olan mum aldığı ağırlıklar sebebiyle yavaş yavaş batmaya başlar. Bir kibrit yardımıyla yakılan mum su üzerinde yükselir ve yeniden yüzmeye başlar. Bunun nedeni nedir araştıracağız.
 # Giriş (Introduction
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
+Bu deneye başladığımızda amacımız mumun yanma özelliğini kullanmaktı.
+), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür.
 Bu bölümde
 literatür
 araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
