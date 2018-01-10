@@ -25,8 +25,7 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 # Özet  
 İçi su dolu kaba yassı mum bırakılır. Ağırlıksız haldeki mum su üstünde yüzer. Sırayla ve teker teker ağırlıklar mumun üzerine yerleştirilir. Bu esnada yüzmekte olan mum aldığı ağırlıklar sebebiyle yavaş yavaş batmaya başlar. Bir kibrit yardımıyla yakılan mum su üzerinde yükselir ve yeniden yüzmeye başlar. Bunun nedeni nedir araştıracağız.
 # Giriş (Introduction
-Bu deneye başladığımızda amacımız mumun yanma özelliğini kullanmaktı.
-
+Deney için gerekli malzemeleri hazırladık. Su dolu bir kabın içine mumumuzu koyduk. Mum yüzdü, daha sonra üzerine madeni para koyarak ağırlık ekledik. Ağırlıkla beraber mum battı. Teorik olarak, mum yanarken üzerindeki ağırlıklarla beraber yüzüyor olmalıydı. Bu nedenle ikinci aşamada batan mumu yakıp ağırlıkları yanan mumun üzerine koyduk. Mum yanmazken ne kadar ağırlıkla yüzebiliyorsa, mum yanarken de o kadar ağırlıkla yüzdü. Mum yanmazken taşıdığı ağırlıktan fazlasını mum yanarken eklesek de, bu ağırlığı taşıyamadı ve battı. Problemin mumun ağırlığında olduğunu düşünüp mumu yüzey alanı sabit kalacak şekilde yarıya kesip deneyi tekrarladık. Yine aynı durum gerçekleşti. Deneyimiz başarısız oldu
 # Materyal ve Yöntem (Experimental Set
 
 Bu konu yeni bir Iypt projesi olduğu için pek bir kaynağımız yok bu yüzden daha çok kendi fikrimiz ve uğraşlarımız sonucu bu projeyi gerçekleşmeye çalışacağız.
@@ -42,7 +41,9 @@ Bunun sonucunda kendimize bir kaç hipotez belirledik.
 Kullandığımız malzemeler:bir adet mum,kabın çoğunu dolduran şu, kap,çakmak ve ağırlık olarakta bozuk para
 https://www.gypt.org/aufgaben/09-candle-in-water.html
 # Bulgular (Results)
-Deney için gerekli malzemeleri hazırladık. Su dolu bir kabın içine mumumuzu koyduk. Mum yüzdü, daha sonra üzerine madeni para koyarak ağırlık ekledik. Ağırlıkla beraber mum battı. Teorik olarak, mum yanarken üzerindeki ağırlıklarla beraber yüzüyor olmalıydı. Bu nedenle ikinci aşamada batan mumu yakıp ağırlıkları yanan mumun üzerine koyduk. Mum yanmazken ne kadar ağırlıkla yüzebiliyorsa, mum yanarken de o kadar ağırlıkla yüzdü. Mum yanmazken taşıdığı ağırlıktan fazlasını mum yanarken eklesek de, bu ağırlığı taşıyamadı ve battı. Problemin mumun ağırlığında olduğunu düşünüp mumu yüzey alanı sabit kalacak şekilde yarıya kesip deneyi tekrarladık. Yine aynı durum gerçekleşti. Deneyimiz başarısız oldu 
+Yaptığımız deneyin sonucunu alamadık.Ama bir sonraki aşamada tekrar gözlemleyip başarılı bir sonuç alacağımıza inanıyoruz.
+Bu deneyde elde ettiğimiz bulgu deneyde mumun ağırlığının bir önemi yok çünkü deneyimiz başarısız  olunca bizde mumun alt kısmından bölüp tekrar aynı düzeneği kurduk.Sonucumuz değişmedi.
+
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
