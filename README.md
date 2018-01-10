@@ -42,8 +42,8 @@ Kullandığımız malzemeler:bir adet mum,kabın çoğunu dolduran şu, kap,çak
 https://www.gypt.org/aufgaben/09-candle-in-water.html
 # Bulgular (Results)
 Yaptığımız deneyin sonucunu alamadık.Ama bir sonraki aşamada tekrar gözlemleyip başarılı bir sonuç alacağımıza inanıyoruz.
-Bu deneyde elde ettiğimiz bulgu deneyde mumun ağırlığının bir önemi yok çünkü deneyimiz başarısız  olunca bizde mumun alt kısmından bölüp tekrar aynı düzeneği kurduk.Sonucumuz değişmedi.
-
+Bu deneyde elde ettiğimiz bulgu deneyde mumun ağırlığının bir önemi yok çünkü deneyimiz başarısız  olunca bizde mumun alt kısmından bölüp tekrar aynı düzeneği kurduk.Sonucumuz değişmedi.Bir dahaki aşamada suyun miktarını değiştirmeyi düşünüyoruz.
+Bu sefer doğru bir şekilde gerçekleştirmeyi temenni ediyoruz.
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
