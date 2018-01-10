@@ -40,6 +40,7 @@ Bunun sonucunda kendimize bir kaç hipotez belirledik.
 3.Suyun miktarı fark yaratır mı?
 4.Kullanılan ağırlıklar fark yaratır mı?
 Kullandığımız malzemeler:bir adet mum,kabın çoğunu dolduran şu, kap,çakmak ve ağırlık olarakta bozuk para
+https://www.gypt.org/aufgaben/09-candle-in-water.html
 # Bulgular (Results)
 Deney için gerekli malzemeleri hazırladık. Su dolu bir kabın içine mumumuzu koyduk. Mum yüzdü, daha sonra üzerine madeni para koyarak ağırlık ekledik. Ağırlıkla beraber mum battı. Teorik olarak, mum yanarken üzerindeki ağırlıklarla beraber yüzüyor olmalıydı. Bu nedenle ikinci aşamada batan mumu yakıp ağırlıkları yanan mumun üzerine koyduk. Mum yanmazken ne kadar ağırlıkla yüzebiliyorsa, mum yanarken de o kadar ağırlıkla yüzdü. Mum yanmazken taşıdığı ağırlıktan fazlasını mum yanarken eklesek de, bu ağırlığı taşıyamadı ve battı. Problemin mumun ağırlığında olduğunu düşünüp mumu yüzey alanı sabit kalacak şekilde yarıya kesip deneyi tekrarladık. Yine aynı durum gerçekleşti. Deneyimiz başarısız oldu 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
