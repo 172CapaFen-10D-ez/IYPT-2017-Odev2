@@ -26,7 +26,7 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 İçi su dolu kaba yassı mum bırakılır. Ağırlıksız haldeki mum su üstünde yüzer. Sırayla ve teker teker ağırlıklar mumun üzerine yerleştirilir. Bu esnada yüzmekte olan mum aldığı ağırlıklar sebebiyle yavaş yavaş batmaya başlar. Bir kibrit yardımıyla yakılan mum su üzerinde yükselir ve yeniden yüzmeye başlar. Bunun nedeni nedir araştıracağız.
 # Giriş (Introduction
 Bu deneye başladığımızda amacımız mumun yanma özelliğini kullanmaktı.
-. 
+
 # Materyal ve Yöntem (Experimental Set
 
 Bu konu yeni bir Iypt projesi olduğu için pek bir kaynağımız yok bu yüzden daha çok kendi fikrimiz ve uğraşlarımız sonucu bu projeyi gerçekleşmeye çalışacağız.
