@@ -41,32 +41,17 @@ literatürde
 yer  alan 
 benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
 çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
-# Materyal ve Yöntem (Experimental Setup)
+# Materyal ve Yöntem (Experimental Set
 
 Bu konu yeni bir Iypt projesi olduğu için pek bir kaynağımız yok bu yüzden daha çok kendi fikrimiz ve uğraşlarımız sonucu bu projeyi gerçekleşmeye çalışacağız.
 Çalışma ortamımız şu anlık normal koşullar
 Deneyimizde ilerleme kaydettikçe bağımsız değişkenlerle,farklı ortamlarda çeşitli sonuçlar almayı düşünüyoruz.
 İnternette bulduğumuz nadir birkaç kaynak var deneyimize ışık tutacak.
-* Veri toplama araçlarınızın neler olduğu, onları  siz gel
-* Gözlemlerinizi, saha çalışmalarınızı v
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+İlk deneyimizde başarısız olduk.
+Bunun sonucunda kendimize bir kaç hipotez belirledik.
+1.Mumun biçimi fark yaratır mı?
+2.Mumun ağırlığı fark yaratır mı?
+3.Suyun miktarı fark yaratır mı?
 
 # Bulgular (Results)
 Deney için gerekli malzemeleri hazırladık. Su dolu bir kabın içine mumumuzu koyduk. Mum yüzdü, daha sonra üzerine madeni para koyarak ağırlık ekledik. Ağırlıkla beraber mum battı. Teorik olarak, mum yanarken üzerindeki ağırlıklarla beraber yüzüyor olmalıydı. Bu nedenle ikinci aşamada batan mumu yakıp ağırlıkları yanan mumun üzerine koyduk. Mum yanmazken ne kadar ağırlıkla yüzebiliyorsa, mum yanarken de o kadar ağırlıkla yüzdü. Mum yanmazken taşıdığı ağırlıktan fazlasını mum yanarken eklesek de, bu ağırlığı taşıyamadı ve battı. Problemin mumun ağırlığında olduğunu düşünüp mumu yüzey alanı sabit kalacak şekilde yarıya kesip deneyi tekrarladık. Yine aynı durum gerçekleşti. Deneyimiz başarısız oldu 
